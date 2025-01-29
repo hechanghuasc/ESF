@@ -1,0 +1,8 @@
+{
+    "marscode.chatLanguage": "cn",
+
+    "terminal.integrated.env.windows": {
+        "PYTHONPATH": "D:/Code/topic3"
+    },
+
+}
